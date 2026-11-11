@@ -9,7 +9,7 @@ for all that don't want to search for a usb drive when installing endgame, i mad
 - a bit of patience
 
 ## GUIDE
-- download ENDGAME+DRIVEDROID.zip and extract it
+- download [ENDGAME+DRIVEDROID.zip](https://github.com/ConzZah/ENDGAME-DRIVEDROID/releases/download/latest/ENDGAME+DRIVEDROID.zip) and extract it
 - go into magisk > modules and install DriveDroid-fix-Magisk.zip, then reboot
 - install drivedroid-free-0.10.50.apk
 - open drivedroid, mount Endgame-Drivedroid.img as read-only
@@ -26,7 +26,6 @@ then, choose the (virtual) memory unit again and it should work.
 
 [DriveDroid-fix-Magisk.zip](https://github.com/overzero-git/DriveDroid-fix-Magisk-module/releases/download/Release-1.0.3/DriveDroid-fix-Magisk.zip)
 
-[Endgame-Drivedroid.img](https://github.com/ConzZah/endgame-drivedroid)
- 
+[ENDGAME+DRIVEDROID.zip](https://github.com/ConzZah/ENDGAME-DRIVEDROID/releases/download/latest/ENDGAME+DRIVEDROID.zip)
 
 **Cheers, ConzZah.**
