@@ -23,7 +23,9 @@ then, choose the (virtual) memory unit again and it should work.
 
 ## Credits & Sources
 [drivedroid-free-0.10.50.apk](https://consolemods.org/wiki/images/5/54/Drivedroid-free-0.10.50.apk)
+
 [DriveDroid-fix-Magisk.zip](https://github.com/overzero-git/DriveDroid-fix-Magisk-module/releases/download/Release-1.0.3/DriveDroid-fix-Magisk.zip)
+
 [Endgame-Drivedroid.img](https://github.com/ConzZah/endgame-drivedroid)
  
 
